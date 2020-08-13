@@ -1,2 +1,6 @@
 function.zip
 rootkey.csv
+
+package/*
+!package/update_map.py
+!package/requirements.txt
